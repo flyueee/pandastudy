@@ -1,0 +1,163 @@
+[0326/203430.129:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0326/203430.130:ERROR:exception_snapshot_win.cc(98)] thread ID 3004 not found in process
+[0326/203603.587:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0326/203603.587:ERROR:exception_snapshot_win.cc(98)] thread ID 3132 not found in process
+[0327/233959.851:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0327/233959.852:ERROR:exception_snapshot_win.cc(98)] thread ID 9464 not found in process
+[0327/233959.877:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0327/233959.878:ERROR:exception_snapshot_win.cc(98)] thread ID 10756 not found in process
+[0327/234802.631:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0327/234802.631:ERROR:exception_snapshot_win.cc(98)] thread ID 12412 not found in process
+[0327/234802.647:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0327/234802.647:ERROR:exception_snapshot_win.cc(98)] thread ID 12380 not found in process
+[0328/000949.801:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0328/000949.801:ERROR:exception_snapshot_win.cc(98)] thread ID 12088 not found in process
+[0328/000949.821:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0328/000949.821:ERROR:exception_snapshot_win.cc(98)] thread ID 1464 not found in process
+[0328/211012.244:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0328/211012.245:ERROR:exception_snapshot_win.cc(98)] thread ID 9588 not found in process
+[0328/211012.264:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[0328/211012.265:ERROR:exception_snapshot_win.cc(98)] thread ID 1356 not found in process
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/122712.337:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/122712.345:WARNING:stun_port.cc(426)] Port[d5e5d30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/122715.007:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/122715.015:WARNING:stun_port.cc(426)] Port[f7fac90:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/122930.395:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/122930.403:WARNING:stun_port.cc(426)] Port[95fc888:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/123141.820:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/123141.826:WARNING:stun_port.cc(426)] Port[953bd00:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/123352.060:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/123352.066:WARNING:stun_port.cc(426)] Port[d24dcd8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/123607.577:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/123607.582:WARNING:stun_port.cc(426)] Port[960a5f8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/124227.097:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/124227.105:WARNING:stun_port.cc(426)] Port[f642cc0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/125739.327:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/125739.337:WARNING:stun_port.cc(426)] Port[6606560:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/130022.428:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1101/130022.429:ERROR:exception_snapshot_win.cc(98)] thread ID 4016 not found in process
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/130322.888:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/130322.890:ERROR:webrtc_sdp.cc(406)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1101/130322.891:ERROR:webrtc_sdp.cc(406)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1101/130322.891:ERROR:webrtc_sdp.cc(406)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1101/130322.891:ERROR:webrtc_sdp.cc(406)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1101/130322.891:ERROR:rtc_peer_connection_handler.cc(2225)] Failed to create native session description. Type: offer SDP: v=0
+o=- 1367520851488570460 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=application 9 UDP/TLS/RTP/SAVPF 119
+c=IN IP4 0.0.0.0
+b=AS:30
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:voTm
+a=ice-pwd:k4P+e2TzkObTrO15Gu+aSKvH
+a=ice-options:trickle
+a=fingerprint:sha-256 03:CC:0A:D8:08:77:50:C4:F7:03:44:9F:51:1B:BD:0C:FF:C3:BF:0C:9E:2E:91:8F:73:8C:E9:3C:CF:BA:CB:7B
+a=setup:actpass
+a=mid:0
+a=sendrecv
+a=msid: 
+a=rtcp-mux
+a=rtpmap:119 google-data/90000
+a=ssrc:1847611052 cname:IeoOU9VUZ0mfesNl
+a=ssrc:1847611052 msid:- 
+a=ssrc:1847611052 mslabel:-
+a=ssrc:1847611052 label:
+
+[1101/130322.891:ERROR:rtc_peer_connection_handler.cc(1201)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/130323.258:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/130323.481:WARNING:stun_port.cc(426)] Port[94751b0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/130331.680:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1101/130331.681:ERROR:exception_snapshot_win.cc(98)] thread ID 7368 not found in process
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/130410.536:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/130410.543:WARNING:stun_port.cc(426)] Port[e49f448:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
+[1101/130416.954:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。 (0xc0000022)
+[1101/130416.954:ERROR:exception_snapshot_win.cc(98)] thread ID 9976 not found in process
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 104 to 127
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 106 to 125
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 110 to 124
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 112 to 123
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 103 to 122
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 105 to 121
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 111 to 120
+[1101/131638.037:WARNING:media_session.cc(334)] Duplicate id found. Reassigning from 109 to 119
+[1101/131638.048:WARNING:stun_port.cc(426)] Port[95681d8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error 0
